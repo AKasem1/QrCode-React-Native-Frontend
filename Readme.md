@@ -1,6 +1,4 @@
-Perfect! Here's a comprehensive README documentation for the frontend:
 
-```markdown
 # QR Auth App - Frontend Documentation
 
 A modern React Native mobile application built with Expo, featuring JWT authentication, password reset with email verification, and auto-refreshing QR codes with smooth animations.
@@ -530,4 +528,5 @@ eas build --platform ios
 expo build:ios
 ```
 
+---
 ---
